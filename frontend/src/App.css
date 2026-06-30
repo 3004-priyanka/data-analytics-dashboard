@@ -1,0 +1,26 @@
+import "./App.css";
+body {
+  background-color: #f4f6f9;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #1f2937;
+}
+
+table {
+  background: white;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+th {
+  background: #2563eb;
+  color: white;
+}
+
+td, th {
+  padding: 10px;
+}
